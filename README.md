@@ -1,7 +1,7 @@
 ## ✈️ 부산와Vr - [간단한 설명] 
 
 <div align=center>![로고.PNG](./로고.PNG)</div>
-
+![Generic badge](https://img.shields.io/badge/pycharm-3.8-yellowgreen.svg) ![Generic badge](https://img.shields.io/badge/Robo3T-1.4.4-green.svg) ![Generic badge](https://img.shields.io/badge/mongoDB-5.0-orange.svg) ![Generic badge](https://img.shields.io/badge/Flask-2.0.1-blue.svg)
 
 ### 🔗 부산와Vr 링크 : [Site Link](https://busanwavr.store/)
 ---
